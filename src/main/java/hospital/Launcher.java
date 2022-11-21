@@ -7,6 +7,6 @@ public class Launcher {
 	}
 
 	public void inicializar() {
-		
+
 	}
 }
